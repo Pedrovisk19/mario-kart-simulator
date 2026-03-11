@@ -1,0 +1,42 @@
+export const personagens = [
+  {
+    id: 1,
+    nome: "Mario",
+    velocidade: 4,
+    manobrabilidade: 3,
+    poder: 3,
+    vidas: 5,
+  },
+  {
+    id: 2,
+    nome: "Bowser",
+    velocidade: 5,
+    manobrabilidade: 2,
+    poder: 5,
+    vidas: 5,
+  },
+  {
+    id: 3,
+    nome: "Luigi",
+    velocidade: 4,
+    manobrabilidade: 4,
+    poder: 3,
+    vidas: 5,
+  },
+  {
+    id: 4,
+    nome: "Princesa",
+    velocidade: 3,
+    manobrabilidade: 4,
+    poder: 2,
+    vidas: 5,
+  },
+  {
+    id: 5,
+    nome: "Donkey Kong",
+    velocidade: 2,
+    manobrabilidade: 3,
+    poder: 5,
+    vidas: 5,
+  },
+];
